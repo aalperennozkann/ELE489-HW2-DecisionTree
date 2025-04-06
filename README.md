@@ -2,14 +2,6 @@
 
 # 🧠 ELE489 Homework 2 – Decision Tree on Banknote Authentication Dataset
 
-**Course:** ELE489 – Fundamentals of Machine Learning  
-**Instructor:** Prof. Seniha Esen Yuksel  
-**Student:** [Your Name]  
-**Student ID:** [Your ID]  
-**Semester:** Spring 2025  
-
----
-
 ## 📌 Project Overview
 
 In this project, we apply a **Decision Tree Classifier** to the [Banknote Authentication Dataset](https://archive.ics.uci.edu/dataset/267/banknote+authentication) to distinguish real and fake banknotes based on four statistical features. The goal is to analyze how hyperparameters such as `max_depth`, `min_samples_split`, and `criterion` affect both **model performance** and **interpretability**.
